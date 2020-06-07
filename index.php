@@ -171,7 +171,7 @@ if(isset($error_msg))
 
 
 <br><br>
-<p><strong>Have forgot your password? <a href="reset.php">Reset here.</a></strong></p>
+<p><strong>Have forgot your password? <a href="https://github.com/Himanshu121212/online-system/blob/master/teacher/index.php">Reset here.</a></strong></p>
 <p><strong>If you don't have any account, <a href="signup.php">Signup</a> here</strong></p>
 
 </center>
